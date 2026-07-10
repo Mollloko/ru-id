@@ -67,14 +67,6 @@ def validate_company_form(data: dict[str, str]) -> list[str]:
     return errors
 ```
 
-## Разработка
-
-```bash
-git clone https://github.com/Mollloko/ru-id.git
-cd ru-id
-pip install -e ".[dev]"
-pytest
-```
 
 ## Лицензия
 
