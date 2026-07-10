@@ -1,11 +1,11 @@
-# ru-id
+# ru-id-validators
 
 Валидация российских идентификаторов с проверкой контрольных сумм.
 
 ## Установка
 
 ```bash
-pip install ru-id
+pip install ru-id-validators
 ```
 
 ## Быстрый старт
